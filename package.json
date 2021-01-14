@@ -2,11 +2,19 @@
   "name": "react-template-cli",
   "version": "1.0.0",
   "description": "",
+  "author": "qiqzhao",
+  "license": "ISC",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmeritter/react-template-cli.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bmeritter/react-template-cli/issues"
+  },
   "dependencies": {
     "ora": "^5.2.0",
     "rimraf": "^3.0.2"
