@@ -1,6 +1,6 @@
 {
   "name": "@qiqzhao/react-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "author": "qiqzhao",
   "license": "ISC",
@@ -11,11 +11,15 @@
     "type": "git",
     "url": "https://github.com/bmeritter/react-template-cli.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "template"
+  ],
   "bugs": {
     "url": "https://github.com/bmeritter/react-template-cli/issues"
   },
   "dependencies": {
+    "commander": "^7.0.0",
     "ora": "^5.2.0",
     "rimraf": "^3.0.2"
   }
