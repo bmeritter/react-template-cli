@@ -1,9 +1,9 @@
 {
   "name": "@qiqzhao/react-cli",
   "version": "1.1.0",
-  "description": "",
+  "description": "A template for generate react project cli.",
   "author": "qiqzhao",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,13 +14,16 @@
   "bin": {
     "react-cli": "bin/react-cli"
   },
-  "keywords": [
-    "react",
-    "template"
-  ],
+  "homepage": "https://github.com/bmeritter/react-template-cli#README.md",
   "bugs": {
     "url": "https://github.com/bmeritter/react-template-cli/issues"
   },
+  "keywords": [
+    "react",
+    "template",
+    "generate",
+    ""
+  ],
   "dependencies": {
     "commander": "^7.0.0",
     "ora": "^5.2.0",
