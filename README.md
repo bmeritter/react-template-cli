@@ -1,4 +1,5 @@
 # react-template-cli
+[![npm version](https://badge.fury.io/js/%40qiqzhao%2Freact-cli.svg)](https://badge.fury.io/js/%40qiqzhao%2Freact-cli)
 
 ## Installation
 ```
