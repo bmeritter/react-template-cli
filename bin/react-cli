@@ -1,0 +1,18 @@
+#!/usr/bin/env node
+'use strict';
+
+const commander = require('commander');
+
+commander
+	.version(require('../package.json').version)
+	.action(() => {
+			require('../lib/init')();
+		}
+	)
+
+commander.parse(process.argv);
+
+if(!commander.args.length){
+	commander.help()
+}
+

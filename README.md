@@ -1,1 +1,1 @@
-# react-template-cli
+# react-cli
